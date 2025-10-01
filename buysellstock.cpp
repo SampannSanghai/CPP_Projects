@@ -2,6 +2,9 @@
 
 using namespace std;
 
+// In this project we take an array from users which has a list of stock prices. 
+// Then we compute the maximum possible profit if a stock is bought and sold on a particular day.
+
 int bestbuy(int n){
     int prices[10000];
     int bestbuy[10000];
